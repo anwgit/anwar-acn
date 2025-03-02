@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anwar-acn/static/css/main.73eee2b4.css",
+    "main.js": "/anwar-acn/static/js/main.25e894fd.js",
+    "static/js/453.6da5a80a.chunk.js": "/anwar-acn/static/js/453.6da5a80a.chunk.js",
+    "static/media/profile_pic.jpeg": "/anwar-acn/static/media/profile_pic.5b04132927ce788902b6.jpeg",
+    "index.html": "/anwar-acn/index.html",
+    "main.73eee2b4.css.map": "/anwar-acn/static/css/main.73eee2b4.css.map",
+    "main.25e894fd.js.map": "/anwar-acn/static/js/main.25e894fd.js.map",
+    "453.6da5a80a.chunk.js.map": "/anwar-acn/static/js/453.6da5a80a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73eee2b4.css",
+    "static/js/main.25e894fd.js"
+  ]
+}
